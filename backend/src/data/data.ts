@@ -6,7 +6,7 @@ export const chats: {
   groupAdmin?: { name: string; email: string };
 }[] =[
   {
-    isGroupChat: false,
+    isGroupChat: true,
     users: [
       {
         name: "John Doe",
